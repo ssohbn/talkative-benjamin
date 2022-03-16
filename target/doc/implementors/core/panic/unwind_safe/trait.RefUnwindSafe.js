@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["my_project"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.56.1/core/panic/unwind_safe/trait.RefUnwindSafe.html\" title=\"trait core::panic::unwind_safe::RefUnwindSafe\">RefUnwindSafe</a> for <a class=\"struct\" href=\"my_project/struct.Ben.html\" title=\"struct my_project::Ben\">Ben</a>","synthetic":true,"types":["my_project::Ben"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
